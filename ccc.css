@@ -1,0 +1,30 @@
+.guarantee{
+  line-height: 1.9em;
+  border-color: white;
+  font-style: italic;
+  border-width: 1px;
+  border-style: dashed;
+  background-color: #a7cecf;
+  padding: 25px;
+  margin: 30px;
+  margin-left: 66%;
+  background-image: url(images/background.gif);
+  background-position: top left;
+  background-repeat: no-repeat;
+  border-radius: 50px;
+}
+.guarantee2{
+  line-height: 1.9em;
+  border-color: white;
+  font-style: italic;
+  border-width: 1px;
+  border-style: dashed;
+  background-color: #a7cecf;
+  padding: 25px;
+  margin: 30px;
+  margin-right: 66%;
+  background-image: url(images/background.gif);
+  background-position: top left;
+  background-repeat: no-repeat;
+  border-radius: 50px;
+}
