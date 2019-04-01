@@ -3,11 +3,22 @@
   border-style: solid;
   width: 400px;
   border-width: 20px;
-  margin-left: 33%;
-  margin-right: 33%;
-
+  margin:0 auto;
   text-align: center;
 
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+}
+.cd{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
+}
+
+.span1{
+  background-color: aqua;
+}
+.elixirs{
+  float: right;
 }
